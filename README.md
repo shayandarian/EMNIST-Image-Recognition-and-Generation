@@ -10,7 +10,8 @@ The file ["emnist_letter.npz"](https://drive.google.com/file/d/1waU2u-d4joIGRzuZ
 The data contains six arrays: 'train_images', 'train_labels', 'validate_images', 'validate_labels', 'test_images', and 'test_labels'.<br/>
 The values have been adjusted from the original EMNIST dataset in order to match the MNIST examples included with Keras:
   - The images have been transposed and scaled to floating point.
-  - The labels have been one-hot encoded.<br/>
+  - The labels have been one-hot encoded.
+  
 While portions of the EMNIST dataset are available in a variety of variations and formats from other sources, this project uses the data in the file linked above.
 
 # Tasks
