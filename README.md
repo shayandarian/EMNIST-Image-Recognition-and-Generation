@@ -1,7 +1,7 @@
 This project is from 2024.<br/>
 Since the original .ipynb file with all the outputs displayed was 55.8 MB in size, and GitHub only allows uploads with a maximum size of 25 MB, the uploaded .ipynb file has all outputs cleared.<br/>
 A 31 page PDF file is also uploaded showing some of the outputs, but not everything is visible in this PDF file either.<br/>
-If you would like to see the project with all of its outputs on display, download the .ipynb file and run each section in Google Colab.
+If you would like to see the project with all of its outputs on display, download the .ipynb file and the ["emnist_letter.npz"](https://drive.google.com/file/d/1waU2u-d4joIGRzuZHVessHdb66-pUg7m/view?usp=sharing) dataset, upload the dataset to Google Colab, and then run each section in Google Colab.
 # Datasets:
 The Extended MNIST or [EMNIST dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset) expands on the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database) commonly used as a benchmark, adding handwritten letters as well as additional samples of handwritten digits.<br/>
 There are several "splits" of the data by various characteristics. This project used the "EMNIST Letters" dataset, which contained values split into 27 classes, one unused (class 0) and one for each letter in the English alphabet.<br/>
