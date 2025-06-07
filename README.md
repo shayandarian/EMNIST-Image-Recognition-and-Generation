@@ -12,7 +12,7 @@ The values have been adjusted from the original EMNIST dataset in order to match
   - The images have been transposed and scaled to floating point.
   - The labels have been one-hot encoded.
   
-While portions of the EMNIST dataset are available in a variety of variations and formats from other sources, this project uses the data in the file linked above.
+While portions of the EMNIST dataset are available in a variety of variations and formats from other sources, this project uses the data in the "emnize_letter.npz "file linked above.
 
 # Tasks
 ## 1. Dense Neural Network:
