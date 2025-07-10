@@ -1,5 +1,5 @@
 This project is from 2024.<br/>
-Convolutional Neural Networks (CNNs) and Generative Adversial Networks (GANs)<br/>
+Convolutional Neural Networks (CNNs) and Generative Adversial Networks (GANs).<br/><br/>
 Since the original .ipynb file with all the outputs displayed was 55.8 MB in size, and GitHub only allows uploads with a maximum size of 25 MB, the uploaded .ipynb file has all outputs cleared.<br/>
 A 31 page PDF file is also uploaded showing some of the outputs, but not everything is visible in this PDF file either.<br/>
 If you would like to see the project with all of its outputs on display, download the .ipynb file and the ["emnist_letter.npz"](https://drive.google.com/file/d/1waU2u-d4joIGRzuZHVessHdb66-pUg7m/view?usp=sharing) dataset, upload the .ipynb file to Google Colab, add the dataset, and then run each section in Google Colab.
